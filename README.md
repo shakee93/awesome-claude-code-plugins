@@ -215,6 +215,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [visual-storyteller](./plugins/visual-storyteller)
 - [whimsy-injector](./plugins/whimsy-injector)
 - [claude-bionify](./plugins/claude-bionify)
+- [tintloom](https://github.com/shakee93/tintloom-images) - Generates and edits images with your own OpenAI, Gemini, fal or ModelArk key.
 
 ### Development Engineering
 - [claude-sounds](https://github.com/culminationAI/claude-sounds)
